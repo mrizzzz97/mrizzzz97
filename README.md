@@ -51,11 +51,10 @@ Berikut adalah teknologi, bahasa pemrograman, dan *tools* yang aku gunakan dan p
 
 > Ini adalah statistik kontribusi otomatis dari aktivitas coding-ku!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-KAMU]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[mrizzzz97]&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-KAMU]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[mrizzzz97]&layout=compact&theme=radical)
 
-*(Catatan: Jangan lupa ganti `[USERNAME-GITHUB-KAMU]` di atas dengan username GitHub kamu yang asli ya!)*
 
 ---
 
