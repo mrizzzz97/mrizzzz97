@@ -5,8 +5,8 @@ Seorang pelajar kelas 11 dan *tech enthusiast* yang aktif mendalami *software de
 ## 👨‍💻 Tentang Aku
 
 * 🎓 Saat ini aku adalah siswa **Kelas 11 di IDN Boarding School**
-* 🌱 Aku sedang fokus memperdalam keahlian di bidang **Full-Stack Web Development** dan **Artificial Intelligence (AI)**
-* 💡 Sangat tertarik dengan pembuatan aplikasi modern menggunakan **Go, Laravel, React.js**, serta integrasi teknologi AI
+* 🌱 Aku sedang fokus memperdalam keahlian di bidang **Full-Stack Web Development**, **Mobile Development**, dan **Artificial Intelligence (AI)**
+* 💡 Sangat tertarik dengan pembuatan aplikasi modern menggunakan **Go, Laravel, React.js, Flutter**, serta integrasi teknologi AI
 * 🤝 Terbuka untuk kolaborasi proyek, belajar bersama, maupun kegiatan *open-source* bagi pemula
 
 ---
@@ -15,7 +15,8 @@ Seorang pelajar kelas 11 dan *tech enthusiast* yang aktif mendalami *software de
 
 Berikut adalah teknologi, bahasa pemrograman, dan *tools* yang aku gunakan dan pelajari:
 
-### 💻 Frontend
+### 💻 Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,9 +52,7 @@ Berikut adalah teknologi, bahasa pemrograman, dan *tools* yang aku gunakan dan p
 
 > Ini adalah statistik kontribusi otomatis dari aktivitas coding-ku!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrizzzz97&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizzzz97&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrizzzz97&theme=radical)
 
 ---
 
