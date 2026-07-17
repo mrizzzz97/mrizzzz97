@@ -48,14 +48,6 @@ Berikut adalah teknologi, bahasa pemrograman, dan *tools* yang aku gunakan dan p
 
 ---
 
-## 📈 Statistik GitHub
-
-> Ini adalah statistik kontribusi otomatis dari aktivitas coding-ku!
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrizzzz97&theme=radical)
-
----
-
 ## 📫 Hubungi Aku
 
 Ayo berteman dan berkolaborasi! Kamu bisa hubungi aku di:
